@@ -7,9 +7,9 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="HandheldFriendly" content="True">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="description" content="Taxi Grabber - HTML Template">
+		<meta name="description" content="Taxi fareed - HTML Template">
 		<meta name="author" content="Coffeecream Themes, info@coffeecream.eu">
-		<title>Taxi Grabber - HTML Template</title>
+		<title>Taxi fareed - HTML Template</title>
 		<link rel="shortcut icon" href="images/favicon.png">
 
 		<!-- Main Stylesheet -->
@@ -38,7 +38,7 @@
             </div>
             <div id="nav-bar" class="nav-bar">
                 <div class="container">
-                    <a href="index.html" class="logo"><img src="images/logo.svg" alt="Taxi Grabber - HTML Template" /></a>
+                    <a href="index.html" class="logo"><img src="images/logo.svg" alt="Taxi fareed - HTML Template" /></a>
                     <button id="nav-trigger" class="nav-trigger ion-android-menu"></button>
                     <nav class="main-nav">
                         <ul>
@@ -387,35 +387,35 @@
 								<div>
 									<img src="http://placehold.it/120x120" alt="" class="person" />
 									<blockquote>
-										Taxi grabber is exactly what our business has been lacking. Great job, I will definitely be ordering again! Not able to tell you how happy I am with taxi grabber. If you aren’t sure, always go for taxi grabber.
+										Taxi fareed is exactly what our business has been lacking. Great job, I will definitely be ordering again! Not able to tell you how happy I am with taxi fareed. If you aren’t sure, always go for taxi fareed.
 										<footer>Amanda Reacher, Global Investements</footer>
 									</blockquote>
 								</div>
 								<div>
 									<img src="http://placehold.it/120x120" alt="" class="person" />
 									<blockquote>
-										Taxi Grabber is the most valuable business resource we have EVER purchased. I couldn't have asked for more than this. After using Taxi Grabber my business skyrocketed!
+										Taxi fareed is the most valuable business resource we have EVER purchased. I couldn't have asked for more than this. After using Taxi fareed my business skyrocketed!
 										<footer>Robert Bartlett, Buena Vista Garden Maintenance</footer>
 									</blockquote>
 								</div>
 								<div>
 									<img src="http://placehold.it/120x120" alt="" class="person" />
 									<blockquote>
-										Keep up the excellent work. I would like to personally thank you for your outstanding product. I strongly recommend Taxi Grabber to everyone interested in running a successful business! Not able to tell you how happy I am with Taxi Grabber.
+										Keep up the excellent work. I would like to personally thank you for your outstanding product. I strongly recommend Taxi fareed to everyone interested in running a successful business! Not able to tell you how happy I am with Taxi fareed.
 										<footer>Dolores Garza, Audio Aid</footer>
 									</blockquote>
 								</div>
 								<div>
 									<img src="http://placehold.it/120x120" alt="" class="person" />
 									<blockquote>
-										Taxi Grabber is the next killer theme. This is simply unbelievable! Man, this thing is getting better and better as I learn more about it. Taxi Grabber is exactly what our business has been lacking.
+										Taxi fareed is the next killer theme. This is simply unbelievable! Man, this thing is getting better and better as I learn more about it. Taxi fareed is exactly what our business has been lacking.
 										<footer>Louis Rush, Access Asia</footer>
 									</blockquote>
 								</div>
 								<div>
 									<img src="http://placehold.it/120x120" alt="" class="person" />
 									<blockquote>
-										Definitely worth the investment. I wish I would have thought of it first. Taxi Grabber impressed me on multiple levels.
+										Definitely worth the investment. I wish I would have thought of it first. Taxi fareed impressed me on multiple levels.
 										<footer>Florence Schilling, Sunburst Garden Management</footer>
 									</blockquote>
 								</div>
@@ -479,7 +479,7 @@
 								<ul class="contact">
 									<li class="hotline"><a href="tel:8121-416-416">8121-416-416</a></li>
 									<li class="phone"><a href="tel:212-647-0772">212-647-0772</a></li>
-									<li class="email"><a href="mailto:info@taxigrabber.biz">info@taxigrabber.biz</a></li>
+									<li class="email"><a href="mailto:info@taxifareed.biz">info@taxifareed.biz</a></li>
 									<li class="address">4603 Oakwood Avenue<br>New York, 1001</li>
 								</ul>
 							</div>
