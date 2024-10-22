@@ -30,9 +30,9 @@
                     </ul>
                     <button id="phone-trigger" class="phone-trigger ion-android-call"></button>
                     <ul class="phones">
-                        <li><a href="tel:8121-416-416"><span>Taxi</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Garage</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Contact</span> 8121-416-416</a></li>
+                        <li><a href="tel:2222-222-222"><span>Taxi</span> 2222-222-222</a></li>
+                        <li><a href="tel:2222-222-222"><span>Garage</span> 2222-222-222</a></li>
+                        <li><a href="tel:2222-222-222"><span>Contact</span> 2222-222-222</a></li>
                     </ul>
                 </div>
             </div>
@@ -94,7 +94,7 @@
 				<div class="slide">
 					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
 					<div class="slider-subtitle">waseet Call us 24/7</div>
-					<div class="slider-title">8121-416-416</div>
+					<div class="slider-title">2222-222-222</div>
 					<div class="slider-button"><a href="about.html" class="btn btn-primary">Read more about us</a></div>
 				</div>
 				<div class="slide">
@@ -477,7 +477,7 @@
 							<div class="widget">
 								<h6>Contact</h6>
 								<ul class="contact">
-									<li class="hotline"><a href="tel:8121-416-416">8121-416-416</a></li>
+									<li class="hotline"><a href="tel:2222-222-222">2222-222-222</a></li>
 									<li class="phone"><a href="tel:212-647-0772">212-647-0772</a></li>
 									<li class="email"><a href="mailto:info@taxiwaseet.biz">info@taxiwaseet.biz</a></li>
 									<li class="address">4603 Oakwood Avenue<br>New York, 1001</li>
